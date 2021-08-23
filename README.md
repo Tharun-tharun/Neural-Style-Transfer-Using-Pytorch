@@ -6,6 +6,10 @@ Style Transfer is a process in which we strive to modify the style of an image w
 
 ## Some of the output images generated while training them the results are:
 
+# Note
+
+I only made upto 10 iterations to make the result more quicker and it's upto you, can train to many interations that you want to be to make image more clear it depends on the image clarity and the style you choose. 
+
 ## Input
 
   ![input](https://user-images.githubusercontent.com/41158838/130415587-17cf0faf-cfc9-4542-a087-046b7f3a7877.png)
